@@ -1,3 +1,14 @@
+/**
+ * @file hc595.h
+ * @author Dennis Yu (yuxiaoyuan0406@qq.com)
+ * @brief hc595 chip driver based on hardware spi
+ * @version 0.1
+ * @date 2022-09-05
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #pragma once
 #include <stddef.h>
 #include "pico/types.h"
